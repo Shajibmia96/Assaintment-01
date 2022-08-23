@@ -1,5 +1,5 @@
 
-আপনি পাঠিয়েছেন
+
 *{
     margin: 0%;
     padding: 0%;
@@ -118,8 +118,8 @@ hr{
    .section-three{
     text-align: center;
     margin-top: 130px;
-    margin-left: 500px;
-    margin-bottom: 100px;
+    /* margin-left: 500px; */
+    margin-bottom: 100px; 
    }
    .img-1{
     width: 50px;
@@ -161,6 +161,7 @@ hr{
    }
    .population{
     display: flex;
+    margin-bottom: 30px;
    }
    .info{
     width: 50%;
@@ -172,9 +173,48 @@ hr{
     text-align: justify;
     
    }
-   /* .explan h1{
-    margin-bottom: 100px; */
+  
    
    .added-img{
     width: 50%;
    }
+
+   .section-four{
+    text-align: center;
+    margin-bottom: 100px;
+   }
+   .form{
+    background-color: rgba(255, 244, 214, 1);
+    width: 800px;
+    height: 100px;
+    padding-top: 80px;
+    margin-left: 720px;
+   }
+   .email{
+    background-color: rgb(194, 191, 191);
+    width: 300px;
+    height: 50px;
+   font-size: 20px;
+   }
+   .Button-01{
+    font-size: 30px;
+   background-image: linear-gradient( orange , red);
+   text-decoration: none;
+   color: azure;
+    margin-top: 40px;
+   padding: 10px 5px;
+   margin-bottom: 30px;
+   }
+   .section-five{
+    text-align: center;
+    background-color: black;
+    padding: 30px 30px;
+   }
+   .foter-heading{
+    color: rgba(255, 89, 89, 1);
+   }
+   .section-five p{
+    color: white;
+   }
+   
+   
